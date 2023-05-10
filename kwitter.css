@@ -1,0 +1,17 @@
+#button_login{
+    width:150;
+    height:30;
+}   
+input{
+    width:250;
+}
+#body{
+    background-color: rgb(248, 236, 141);
+}
+#login_div{
+    background-color: rgb(213, 71, 99);
+    width:650px;
+    height:250px;
+    border-radius: 25px;
+    border-style: solid;
+}
